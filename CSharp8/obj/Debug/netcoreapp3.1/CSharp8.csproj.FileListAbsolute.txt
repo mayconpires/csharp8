@@ -1,0 +1,11 @@
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.exe
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.deps.json
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.runtimeconfig.json
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.runtimeconfig.dev.json
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.dll
+C:\MP\Estudos\dotnet\csharp8\CSharp8\bin\Debug\netcoreapp3.1\CSharp8.pdb
+C:\MP\Estudos\dotnet\csharp8\CSharp8\obj\Debug\netcoreapp3.1\CSharp8.csprojAssemblyReference.cache
+C:\MP\Estudos\dotnet\csharp8\CSharp8\obj\Debug\netcoreapp3.1\CSharp8.AssemblyInfoInputs.cache
+C:\MP\Estudos\dotnet\csharp8\CSharp8\obj\Debug\netcoreapp3.1\CSharp8.AssemblyInfo.cs
+C:\MP\Estudos\dotnet\csharp8\CSharp8\obj\Debug\netcoreapp3.1\CSharp8.dll
+C:\MP\Estudos\dotnet\csharp8\CSharp8\obj\Debug\netcoreapp3.1\CSharp8.pdb
